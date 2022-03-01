@@ -1,1 +1,3 @@
+Copy this code, open console (F12 - Right Click, Inspect) and paste this code on 'Console' tab.
+
 document.designMode = 'on'
